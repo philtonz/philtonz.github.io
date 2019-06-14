@@ -1,26 +1,26 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Philtonbot
+SEOTitle: 稍一稍 | SHAOYISHAO
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: daboliuzi@gmail.com
+description: "Philtonbot's Bottom Line."
+keyword: " 做人不要太攀比, 哈哈哈哈哈哈哈哈哈哈哈哈哈哈, 踏踏实实做自己, 那就比比激光雨, 如果非要比一比, python, , 社会摇花手盘头"
+url: "http://philtonz.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "记住一句话铁汁"
+sidebar-avatar: file:///C|/Users/philton/Desktop/微信图片_20190614112008.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+# weibo_username:     philton_z
 zhihu_username:     qiubaiying
-github_username:    qiubaiying
+github_username:    philtonz
 facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
